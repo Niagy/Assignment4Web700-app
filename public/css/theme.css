@@ -15,10 +15,12 @@
     font-family: 'Madimi One', sans-serif;    
     color: #e7eae6; 
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+}
 
 .navbar-light .nav-item .nav-link {
     font-family: 'Madimi One', sans-serif;    
     color: black; 
+}
 
 .navbar-light .nav-item .nav-link:hover {
     color: #7c1919; 
@@ -69,7 +71,8 @@ a {
 a:hover {
     color: #008000; 
     text-decoration: underline; 
-
+}
+    
 .legends {
     padding-top: 10px; 
     padding-bottom: 10px; 
